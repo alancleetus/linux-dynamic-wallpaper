@@ -5,7 +5,7 @@ import urllib.request
 import time
 
 bg_url = None
-bg_path = "/home/alan/Pictures/unsplash/"
+bg_path = "/home/alan/Pictures/unsplash/" # change this to valid directory on your PC
 
 def getResolution():
     global bg_url
