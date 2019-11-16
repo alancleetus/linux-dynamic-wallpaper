@@ -6,4 +6,4 @@ Usage:
 - run code to change wallpaper
 
 Tips:
-I run this script every hour with cron jobs using "0 * * * * python3 \[path to file]main.py"
+I run this script every hour with cron jobs using "0 * * * * python3 {path to file}"
